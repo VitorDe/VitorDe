@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate with ereryone
 - 💬 Ask me about anything
 
-- 💌 Social networks: <p>
-    <a href="https://www.linkedin.com/in/labenne-d-a31b42193/">LinkedIn</a>
-    <a href="https://www.instagram.com/lbnnnnnnn/">Instagram</a>
-     <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5547996695013/">WhatsApps</a>
-</p>
+- 💌 <a href="https://linktr.ee/VitorPetri">Contact</a>
+  
+
+
+
