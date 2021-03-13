@@ -6,6 +6,6 @@
 - 💬 Ask me about anything
 
 💌   Social networks: <p align="center">
-    <a href="hhttps://www.linkedin.com/in/labenne-d-a31b42193/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/labenne-d-a31b42193/">LinkedIn</a>
     <a href="https://www.instagram.com/lbnnnnnnn/">Instagram</a>
 </p>
