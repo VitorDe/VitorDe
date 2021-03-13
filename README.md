@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning everithing I can
-- 👯 I’m looking to collaborate on any nice project
+- 👯 I’m looking to collaborate with ereryone
 - 💬 Ask me about anything
 
 - 💌 Social networks: <p>
