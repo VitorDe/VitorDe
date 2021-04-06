@@ -7,7 +7,7 @@
 
 - Site: vitorpetri.com
 
-- 💌 <a href="https://linktr.ee/VitorPetri"> Contact </a>
+- 💌 <a href="https://linktr.ee/VitorPetri"> Find me here! </a>
   
 
 
