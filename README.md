@@ -1,11 +1,10 @@
-### Hi there 👋🤠
+### Hi there 👋
 
-- 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning everithing I can
 - 👯 I’m looking to collaborate with ereryone
 - 💬 Ask me about anything
 
-- Site: vitorpetri.com
+- Site: https://vitorpetri.com
 
 - 💌 <a href="https://linktr.ee/VitorPetri"> Find me here! </a>
   
