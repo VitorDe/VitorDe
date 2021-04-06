@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with ereryone
 - 💬 Ask me about anything
 
-- Site: https://vitorpetri.com
+<a href="https://vitorpetri.com"> Site </a>
 
 - 💌 <a href="https://linktr.ee/VitorPetri"> Find me here! </a>
   
