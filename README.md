@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 - 🌱 I’m currently learning everithing I can
 - 👯 I’m looking to collaborate with everyone
 - 💬 Ask me about anything
