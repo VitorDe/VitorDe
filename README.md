@@ -17,10 +17,28 @@ I'm passionate about technology, development and learning. Always open to new ch
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
      
 ![](https://visitor-badge.glitch.me/badge?page_id=VitorPetri.VitorPetri)
+<details align="center">
 
-<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+<summary> <b> <samp> Find me around the www🌎 </samp></b></summary>
+<samp>
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
+  &nbsp; &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p> 
+
+</samp>
+</details>
