@@ -18,8 +18,6 @@
    &nbsp;
     <a href="https://www.instagram.com/farziphotographer"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>
      &nbsp;
-     </a>
-     &nbsp;
      <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
   </p>   
 </p>
