@@ -9,7 +9,7 @@
 
 <details align="center">
 <summary> <b> <samp> Find me around the www🌎 </samp></b></summary>
-<samp>
+
  <p align="center">
   <p align="center">
     <a href="https://twitter.com/Laabenne"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>
@@ -21,7 +21,7 @@
      <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
   </p>   
 </p>
-</samp>
+
 </details>
 
 
