@@ -4,11 +4,10 @@
 
 ## Languages and Tools: :robot:
 
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
 
 
 <details align="center">
-
 <summary> <b> <samp> Find me around the www🌎 </samp></b></summary>
 <samp>
  <p align="center">
@@ -18,9 +17,7 @@
     <a href="https://www.instagram.com/farziphotographer" alt="Instagram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
      <a href="https://t.me/farziphotographer" alt="Telegram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
      <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
-
-  </p>
-    
+  </p>   
 </p>
 </samp>
 </details>
