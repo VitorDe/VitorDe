@@ -1,15 +1,12 @@
 ## Greetings! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
 
-My name is Vitor Petri, I'm a front-end developer based in Brazil.
+- 😄 My name is Vitor Petri, I'm a front-end developer based in Brazil.
+- 🎨I'm passionate about art, design, tech and programming.
+- 🌱 I’m currently learning everithing I can.
+- 👯 I’m looking to collaborate with everyone.
+- 💬 Ask me about anything!
 
-I'm passionate about technology, design. 
-
-- 🌱 I’m currently learning everithing I can
-- 👯 I’m looking to collaborate with everyone
-- 💬 Ask me about anything
-
-### Studyng
-
+### Current focus
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 
 <details>
