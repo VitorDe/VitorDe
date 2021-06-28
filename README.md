@@ -14,7 +14,7 @@
   <p align="center">
     <a href="https://twitter.com/Laabenne"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>
    &nbsp;
-    <a href="https://www.linkedin.com/in/jatin-pahuja"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30 </a>
+    <a href="https://www.linkedin.com/in/jatin-pahuja"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30></a>
    &nbsp;
     <a href="https://www.instagram.com/farziphotographer"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>
      &nbsp;
