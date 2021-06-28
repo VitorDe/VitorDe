@@ -20,10 +20,9 @@ I'm passionate about technology, development and learning. Always open to new ch
 <details align="center">
 
 <details align="center">
-
 <summary> <b> <samp> Find me around the www🌎 </samp></b></summary>
-<samp>
 
+<samp>
 <p align="center">
 	<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 	<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
@@ -32,7 +31,8 @@ I'm passionate about technology, development and learning. Always open to new ch
 	<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 	<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 </p> 
-
 </samp>
+
 </details>
+
 
