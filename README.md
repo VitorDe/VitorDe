@@ -1,9 +1,9 @@
 # Greetings! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
 
 - 😄 My name is Vitor Petri, I'm a front-end developer based in Brazil.
-- 🎨I'm passionate about art, design, tech and programming.
-- 🌱 I’m currently learning everithing I can.
-- 👯 I’m looking to collaborate with everyone.
+- 🎨 Passionate about art, design, tech and programming.
+- 🌱 Currently learning everithing I can.
+- 👯 Looking to collaborate with everyone.
 - 💬 Ask me about anything!
 
 ## Current focus
