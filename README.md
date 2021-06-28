@@ -4,15 +4,18 @@ My name is Vitor Petri, I'm a front-end developer based in Brazil.
 
 I'm passionate about technology, design. 
 
+- 🌱 I’m currently learning everithing I can
+- 👯 I’m looking to collaborate with everyone
+- 💬 Ask me about anything
 
-### Currently Learning
+### Studyng
 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 
-<details
+<details>
 <summary><b><samp> Find me around the www🌎 </samp></b></summary>
 <samp>
-<p align="center">
+<p>
 	<br><br><br>
 	<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 	<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
@@ -21,4 +24,3 @@ I'm passionate about technology, design.
 </p>
 </samp>
 </details>
-
