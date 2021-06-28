@@ -8,27 +8,29 @@
 
 
 <details align="center">
-<summary> <b> <samp> Find me around the www🌎 </samp></b></summary>
-
- <p align="center">
+ <b>Find me around the www🌎/b>
   <p align="center">
-    <a href="https://twitter.com/Laabenne"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>
+    <a href="https://twitter.com/Laabenne"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" width="30"></a>
    &nbsp;
-    <a href="https://www.linkedin.com/in/jatin-pahuja"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30></a>
+    <a href="https://www.linkedin.com/in/jatin-pahuja"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" width="30></a>
    &nbsp;
-    <a href="https://www.instagram.com/farziphotographer"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>
+    <a href="https://www.instagram.com/farziphotographer"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" width="30"></a>
      &nbsp;
-     <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
+     <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" width="30"></a>
   </p>   
-</p>
-
 </details>
-
-
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-
-
+     
+ 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+     
+ 
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+
