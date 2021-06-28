@@ -1,8 +1,8 @@
-### Greetings! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
+## Greetings! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
 
 
 
-## Currently Learning
+### Currently Learning
 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 
