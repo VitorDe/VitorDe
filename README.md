@@ -9,10 +9,6 @@
 ## Current focus
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
 
-Vou aprender até o final no ano:
-Next, Vue, Three, Processing, C, C++, C#
-Figma, Touch Designer, Blender, DaVinci
-
 ### Find me around the www🌎
 <p>
 	<a href="https://vitorpetri.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="40"></a>
