@@ -24,7 +24,8 @@ Figma, Touch Designer, Blender, DaVinci
 ### Find me around the www🌎
 <p>
 	<a href="https://vitorpetri.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Globe_icon_2.svg/1200px-Globe_icon_2.svg.png" alt="Website" width="40"></a>
-	<a href="https://twitter.com/Laabenne" target="_blank"><img src="https://www.al.al.leg.br/imagens/Twitterlogo.png/image" alt="Twitter" width="40"></a>
+	
+	<a href="https://twitter.com/Laabenne" target="_blank"><img src="https://www.al.al.leg.br/imagens/Twitterlogo.png" alt="Twitter" width="40"></a>
 	
 	<a href="https://www.instagram.com/lbnnnnnnn/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="40"></a>
 	
